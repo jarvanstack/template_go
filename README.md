@@ -5,7 +5,7 @@
 ```bash
 template_go    
 ├── config            // 配置文件
-├── example           // 使用实例
+├── examples           // 使用实例
 ├── src               // 源代码
 ├── tests             // 测试代码
 ├── Dockerfile        // Dockerfile文件
