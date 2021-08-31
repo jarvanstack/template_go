@@ -1,8 +1,12 @@
-# TEMPLATE_GO
+#  template_go
 
-## 项目结构
+go 项目模板
+
+## structure
 
 ```bash
+$ tree -L 2
+
 template_go    
 ├── config            // 配置文件
 ├── examples           // 使用实例
@@ -13,3 +17,15 @@ template_go
 ├── main.go           // 主启动文件
 ├── start.sh          // 自动打包编译运行 docker 脚本,启动的是主启动文件, 使用时候需要修改启动端口
 ```
+
+
+
+## install
+
+
+
+## usage 
+
+
+
+## other optional 
